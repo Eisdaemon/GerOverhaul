@@ -1,0 +1,6 @@
+[config]
+name = Germany Overhaul
+path = E:\Dokumente\My Games\democracy4\mods\GerOverhaul
+guiname = Germany Overhaul
+author = Joris
+description = Overhauls Germany, fixes varios things and adds new policies
