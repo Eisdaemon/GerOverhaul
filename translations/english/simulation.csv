@@ -8,5 +8,5 @@
 #,MilitaryPower,Military Strength,"A strong military force is an important part of exerting our influence around the globe and keeping our country safe. There are numerous ways to increase our military's power and reach, resulting in a stronger and more varied fighting force. "
 #,GlobalInfluence,Global Influence,"Not all countries have an equal weight when it comes to influencing politics around the world. Those who are economically important, have a powerful military, or are technologically advanced all have an advantage when it comes to global affairs. As we increase our global influence, we will have more sway with other countries of the world. "
 #,ForeignThreat,Foreign Threat Estimation,"While terrorism has emerged as the dominant form of violence for the 21st century, inter-country conflict has continued in a more subdued manner. Espionage, election tampering, and cyber-warfare are all tricks of the trade used against rivals. We can reduce this through alliances, military deployment, retaliatory options. We'll never know our enemies exact plans, so the values that we have are estimations that we believe are near the truth. "
-#,ActualThreat,UNKNOWN,hidden
+#,ActualThreat,UNKNOWN,"Actual Foreign Threat and Influence. Has only Effects when getting up high"
 
