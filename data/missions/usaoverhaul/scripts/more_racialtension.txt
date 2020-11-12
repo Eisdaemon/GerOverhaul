@@ -1,0 +1,1 @@
+CreateGrudge(Historical Grievances,USA,RacialTension,0.25,1,0);

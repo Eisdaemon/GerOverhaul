@@ -1,0 +1,1 @@
+CreateGrudge(China Rivalry,USA,ForeignThreat,0.125,1,0);

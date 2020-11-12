@@ -1,0 +1,1 @@
+CreateGrudge(Russia Rivalry,USA,ActualThreat,0.125,1,0);
