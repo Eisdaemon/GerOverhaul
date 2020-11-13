@@ -1,0 +1,1 @@
+CreateGrudge(Sino-German Tensions,Germany,ActualThreat,0.06,1,0);
