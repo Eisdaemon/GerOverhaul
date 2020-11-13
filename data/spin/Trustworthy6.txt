@@ -1,0 +1,10 @@
+[config]
+Name = Release tax returns
+Impact = 0.14
+SuccessChance = 0.63
+PoliticalCapitalCost = 5
+Sprite = release_taxes.png
+Target = TRUSTWORTHY
+Sound
+
+ 
