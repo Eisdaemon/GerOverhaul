@@ -129,6 +129,7 @@ GamblingTax = 0.30
 armsexports = 0.2
 natomembership = 0.6
 highwayact = 0.2
+StateHealthService = 0.7
 
 _prereq_nuclear_tech = 1
 _prereq_has_coast = 1

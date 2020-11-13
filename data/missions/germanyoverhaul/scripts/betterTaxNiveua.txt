@@ -1,0 +1,5 @@
+CreateGrudge(Money seems off corection,Germany,StatePensions_cost,-0.33,1,0);
+CreateGrudge(Money seems off corection,Germany,StateHealthService_cost,-0.28,1,0);
+CreateGrudge(Money seems off corection,Germany,StateSchools_cost,-0.1,1,0);
+CreateGrudge(Money seems off corection,Germany,HealthcareVouchers_cost,-0.1,1,0);
+CreateGrudge(Money seems off corection,Germany,StateEmployeeWages_cost,-0.33,1,0);
