@@ -15,3 +15,4 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,GlobalInstability,NOICON,0.5,0,1,HIGHBAD,,#,"armsexports,0.28*(x^2)","DebtCrisis,0.35*(GlobalInfluence*x)",#,"_Terrorism,-0.3+(0.85*x)",,,,,,,,,,,,,,,,,,,,,,,,,,
 ,TerroristActivity,NOICON,0,0,1,HIGHBAD,,#,"_Terrorism,1.0*(x^0.75)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#,SpaceCost,ECONOMY,1,0,1,HIGHBAD,icons_costofspace,#,"Technology,0.5-(0.7*x),8","SpaceProgram,0-(0.12*x),8","InternationalFusionResearchProject,-0.21*(x^3),18","MarsProgram,-0.03-(0.13*x),8",#,"SpaceProgram_cost,-0.5+(1.0*x),4","MarsProgram_cost,-0.5+(1.0*x),4","PrivateSpaceProgram,0.22-(0.28*x),2"

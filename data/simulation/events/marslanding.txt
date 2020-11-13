@@ -1,0 +1,14 @@
+[config]
+Name = marslanding
+Texture = marslanding.png
+GUISound = DM4_UI_Cheer.wav
+OnImplement = CreateGrudge(Patriot,0.26,0.95);CreateGrudge(Patriot_freq,0.18,0.95);CreateGrudge(_All_,0.13,0.92);CreateGrudge(marslanding,-1.5,1.0);CreateGrudge(ForeignRelations,0.28,0.95);CreateGrudge(marsfail,-1.5,1.0);CreateGrudge(marscolony,0.1,1.0);
+
+[influences]
+0 = _random_,0,0.1
+1 = Technology,-0.3+(0.5*x)
+2 = MarsProgram,0.2+(0.55*x)
+3 = SpaceProgram,0.02+(0.11*x)
+4 = lunarbase,0.06+(0.18*x),12
+
+
