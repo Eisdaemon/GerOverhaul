@@ -1,0 +1,1 @@
+CreateGrudge(Immigration too high Fix,Germany,Immigration,-0.5,1,0);
