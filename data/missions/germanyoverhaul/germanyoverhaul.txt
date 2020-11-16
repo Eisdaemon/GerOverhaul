@@ -132,6 +132,10 @@ highwayact = 0.2
 StateHealthService = 0.70
 ChurchTax = 0.2
 TaxCodeStrength = 0.50
+immigrationenforcement = 0.1
+unmembership = 0.5
+secretservice = 0.2
+
 
 _prereq_nuclear_tech = 1
 _prereq_has_coast = 1
