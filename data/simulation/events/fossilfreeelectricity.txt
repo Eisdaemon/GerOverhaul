@@ -1,0 +1,8 @@
+[config]
+Name = fossilfreeelectricity
+Texture = newsgeneric.png
+GUISound = 
+OnImplement = CreateGrudge(fossilelectricityimport,-0.900,0.950);CreateGrudge(Environmentalist,0.15,0.900);CreateGrudge(_All_,0.10,0.900);
+
+[influences]
+0 = FossilFuelPower,1-(1.1*x)

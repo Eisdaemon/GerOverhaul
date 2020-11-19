@@ -77,7 +77,7 @@ MilitarySpending = 0.33
 MinimumWage = 0.55
 Narcotics = 0.125
 NeedleExchangeProgram = 0.5
-NuclearFission = 0
+NuclearFission = 0.07
 OrganicSubsidy = 0.4
 PayrollTax = 0.5
 PetrolTax = 0.4
@@ -135,6 +135,8 @@ TaxCodeStrength = 0.50
 immigrationenforcement = 0.1
 unmembership = 0.5
 secretservice = 0.2
+NuclearWasteEndStorage = 0.25
+ElectricityExport = 0.2
 
 
 _prereq_nuclear_tech = 1

@@ -2,15 +2,14 @@
 Name = popecondemn
 Texture = popecondemn.png
 GUISound = DM4_National Team Defects.wav
-OnImplement = CreateGrudge(Religious,-0.3,0.95);
+OnImplement = CreateGrudge(Religious,-0.3,0.95);CreateGrudge(Conservatives,-0.12,0.92);
 
 [influences]
-0 = AbortionLaw,-0.2+(x^2.2)*1.0
-1 = Creationism,0+(x^4)*0.5
-2 = DeathPenalty,0.05+(0.15*x)
-3 = GayMarriage,0.1+(0.12*x)
-4 = GenderTransition,0.1+(0.17*x)
-4 = HumanCloningResearchGrants,0.1+(0.45*x)
-4 = LegaliseProstitution,0.2+(0.1*x)
-5 = _random_,0.05,0.2
+0 = AbortionLaw,0+(x^2)*1.2
+1 = Creationism,0+(x^3)*0.4
+2 = DeathPenalty,0.05+(0.25*x)
+3 = GayMarriage,0+(0.15*x)
+4 = GenderTransition,0.1+(0.25*x)
+5 = HumanCloningResearchGrants,0.1+(0.5*x)
+6 = LegaliseProstitution,0.2+(0.25*x)
 
