@@ -137,7 +137,8 @@ unmembership = 0.5
 secretservice = 0.2
 NuclearWasteEndStorage = 0.25
 ElectricityExport = 0.2
-
+CompulsoryFoodLabelling = 0.4
+StatePostService = 0.5
 
 _prereq_nuclear_tech = 1
 _prereq_has_coast = 1
