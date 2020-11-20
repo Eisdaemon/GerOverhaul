@@ -3,7 +3,7 @@ name=NATODefense
 
 [influences]
 0 = natomembership,0+(0.5*x)
-1 = _random_,0,0.55
+1 = _random_,0,0.5
 2 = ActualThreat,-0.1+(0.3*x)
 
 [option0]
