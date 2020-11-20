@@ -18,5 +18,4 @@
 #,ElectricityFromFossil,Fossil based power generation,"A measure of how much electricity actually comes from fossil fuels."
 #,ElectricityFromNuclear,Nuclear power generation,"A measure of how much electricity actually comes from nuclear power."
 #,ElectricityFromRenewable,Renewable power generation,"A measure of how much electricity actually comes from renewable sources."
-#,NuclearWasteAmount,Nuclear waste amount,"A generic measure of how much nuclear waste has gone through initial treatment and is awaiting long term storage. The waste could be converted back into new uranium-based fuel or mixed oxide fuels for further usage in nuclear reactors."
-
+#,NuclearWasteAmount,Nuclear waste amount,"A generic measure of how much nuclear waste has gone through initial treatment and is awaiting long term storage. The waste could also be converted back into new uranium-based fuel or mixed oxide fuels for further usage in nuclear reactors. Nuclear waste should be properly dealt with promptly as no one likes having a bunch of highly radioactive waste just sitting in storage pools inside nuclear power stations."
