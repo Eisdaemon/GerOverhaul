@@ -1,1 +1,1 @@
-CreateGrudge(German Work Ethos,Germany,WorkerProductivity,0.1,1,0);
+CreateGrudge(German Work Ethos,Germany,WorkerProductivity,0.15,1,0);

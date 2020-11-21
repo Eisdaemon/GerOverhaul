@@ -1,7 +1,9 @@
 CreateGrudge(EU-Membership,Germany,GDP,0.125,1,0);
-CreateGrudge(EU-Membership,Germany,InternationalTrade,0.15,1,0);
+CreateGrudge(EU-Membership,Germany,InternationalTrade,0.2,1,0);
 CreateGrudge(EU-Membership,Germany,CurrencyStrength,0.05,1,0);
-CreateGrudge(EU-Membership,Germany,ForeignInvestment,0.1,1,0);
-CreateGrudge(EU-Membership,Germany,ForeignRelations,0.1,1,0);
+CreateGrudge(EU-Membership,Germany,ForeignInvestment,0.125,1,0);
+CreateGrudge(EU-Membership,Germany,ForeignRelations,0.125,1,0);
 CreateGrudge(EU-Membership,Germany,Stability,0.05,1,0);
 CreateGrudge(EU-Membership,Germany,Tourism,0.1,1,0);
+CreateGrudge(EU-Membership,Germany,Patriot,-0.1,1,0);
+CreateGrudge(EU-Membership,Germany,Liberal,0.1,1,0);

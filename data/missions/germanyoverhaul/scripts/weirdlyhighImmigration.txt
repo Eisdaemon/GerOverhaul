@@ -1,1 +1,2 @@
-CreateGrudge(Immigration too high Fix,Germany,Immigration,-0.5,1,0);
+CreateGrudge(Immigration too high Fix,Germany,Immigration,-0.33,1,0);
+CreateGrudge(Rise of the Right Wing,Germany,RacialTension,+0.15,1,0);
