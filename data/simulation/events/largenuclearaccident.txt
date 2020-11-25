@@ -1,0 +1,14 @@
+[config]
+Name = largenuclearaccident
+Texture = nuclearexplosion.png
+GUISound = 
+OnImplement = CreateGrudge(largenuclearaccident,-0.900,1.000);CreateGrudge(NuclearPowerGen,-0.15,0.950);CreateGrudge(_All_,-0.3,0.800);CreateGrudge(Environment,-0.20,0.500);CreateGrudge(Tourism,-0.80,0.850);CreateGrudge(HealthcareDemand,0.10,0.750);
+
+[influences]
+0 = NuclearPowerGen,0.55*(x^2)
+1 = _winning_,0.35*(x^2),4
+2 = GenerationIVTech,-0.2-(0.2*x)
+3 = Technology,-0.25*(x^1.5),8
+4 = TechnologicalAdvantage,-0.1-(0.1*x),6
+5 = _random_,0,0.2
+6 = Education,-0.6*(x^2)

@@ -1,0 +1,9 @@
+[config]
+Name = weatherelectricitydemand
+Texture = newsgeneric.png
+GUISound = 
+OnImplement = CreateGrudge(weatherelectricitydemand,-0.900,0.900);CreateGrudge(EnergyMix,-0.10,0.500);
+
+[influences]
+0 = _winning_,0+(0.5*x)
+1 = _random_,0,0.5

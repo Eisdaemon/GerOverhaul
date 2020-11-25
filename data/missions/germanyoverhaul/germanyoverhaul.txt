@@ -142,7 +142,7 @@ CompulsoryFoodLabelling = 0.4
 StatePostService = 0.5
 RoadBuilding = 0.56
 RetirementAge = 0.4
-
+FossilEnergySubsidy = 0.75
 
 _prereq_nuclear_tech = 1
 _prereq_has_coast = 1

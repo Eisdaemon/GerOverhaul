@@ -1,0 +1,9 @@
+[config]
+Name = powergriddamage
+Texture = powerlines.png
+GUISound = 
+OnImplement = CreateGrudge(powergriddamage,-0.900,0.850);CreateGrudge(EnergyMix,-0.05,0.500);CreateGrudge(_All_,-0.10,0.750);
+
+[influences]
+0 = EnergyMix,0+(0.8*x)
+1 = _random_,0,0.25
