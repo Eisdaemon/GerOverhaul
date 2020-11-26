@@ -64,3 +64,5 @@
 #,FossilEnergySubsidy,default,,FossilElectricityBan,10,4,8,4,ECONOMY,,75,290,0+(1.0*x),,2,0,0,0+(1.0*x),,,#Effects,"CoalPower,0.15+(0.3*x),4","NaturalGasPower,0.1+(0.25*x),8","Environmentalist_freq,0.02+(0.08*x)","Environmentalist,-0.1-(0.15*x)",
 #,RenewablePowerBan,ban,,CleanEnergySubsidies,20,16,10,4,ECONOMY,,0,0,0+(1.0*x),,4,0,0,0+(1.0*x),,,#Effects,"RenewablePower,-2*(x^1.8)+0.05,4","Capitalist,-0.075*(x^1.3)","Liberal,-0.03-(0.07*x)","Environmentalist,-0.075-(0.25*x)","Environmentalist_freq,-0.02-(0.07*x),4",
 #,HydropowerProject,default,,,24,30,14,14,PUBLICSERVICES,,470,1750,0+(1.0*x),"_default_,1.0;Technology,-0.1*(x^2)",24,0,0,0+(1.0*x),,,#Effects,"HydroPower,0.08+(0.185*x),24","Environment,-0.03-(0.07*x),8","Unemployment,-0.01-(0.02*x)","Environmentalist,0.07+(0.1*x)",
+#,SpeedLimits,speedlimits,UNCANCELLABLE,,24,30,34,34,TRANSPORT,,0,0,0+(1.0*x),,1,0,0,0+(1.0*x),,,#Effects,"Health,0.0-(0.1*x)*CarUsage,4","GlobalCO2,0.0+(0.075*x)*CarUsage,4","Environment,0.0-(0.01*x)*CarUsage,4","Liberal,-0.1+(0.25*x)","Environmentalist,0.1-(0.25*x)","Motorist,-0.2+(0.5*x)","TrafficCongestion,-0.1+(x-0.5)^2"
+
