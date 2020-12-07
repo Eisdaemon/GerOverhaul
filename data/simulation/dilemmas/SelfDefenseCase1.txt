@@ -1,0 +1,18 @@
+[dilemma]
+name=SelfDefenseCase1
+
+[influences]
+0 = CrimeRate,0+(0.3*x)
+1 = _random_,0,0.3
+2 = ViolentCrimeRate,0+(0.2*x)
+3 = SelfDefenseLaw,-0.2+(0.4*x)
+4 = LevelOfViolence,0+(0.2*x)
+
+[option0]
+OnImplement = CreateGrudge(Parents,0.15,0.9);CreateGrudge(Conservatives,-0.10,0.9);CreateGrudge(Patriot,-0.10,0.9);CreateGrudge(_percept_compassion,0.15,0.9);
+
+[option1]
+OnImplement = CreateGrudge(Parents,-0.25,0.9);CreateGrudge(Conservatives,0.10,0.9);CreateGrudge(Patriot,0.10,0.9);CreateGrudge(_percept_compassion,-0.2,0.8);CreateGrudge(_percept_strength,0.1,0.8);
+
+[option2]
+OnImplement = CreateGrudge(Liberal,0.1,0.9);CreateGrudge(_percept_trust,0.15,0.9);

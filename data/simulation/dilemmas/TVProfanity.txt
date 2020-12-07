@@ -1,0 +1,13 @@
+[dilemma]
+name=TVProfanity
+
+[influences]
+0 = _default_,0.3+(0*x)
+1 = _random_,0,0.5
+
+[option0]
+OnImplement = CreateGrudge(Parents,0.15,0.9);CreateGrudge(Conservatives,0.2,0.9);CreateGrudge(Young,-0.3,0.9);CreateGrudge(Liberal,-0.15,0.8);
+
+[option1]
+OnImplement = CreateGrudge(Parents,-0.05,0.9);CreateGrudge(Conservatives,-0.25,0.9);CreateGrudge(Young,0.25,0.7);CreateGrudge(Liberal,0.1,0.8);
+

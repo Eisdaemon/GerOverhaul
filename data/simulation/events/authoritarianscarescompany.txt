@@ -1,0 +1,9 @@
+[config]
+Name = authoritarianscarescompany
+Texture = authoritariancorporateno.png
+GUISound = 
+OnImplement = CreateGrudge(authoritarianscarescompany,-0.9,0.98);CreateGrudge(Capitalist,-0.2,0.8);CreateGrudge(Liberal,-0.1,0.8);CreateGrudge(ForeignInvestment,-0.075,0.98);
+
+[influences]
+0 = _random_,0,0.2
+1 = AuthoritarianismAmount,0+(0.8*x),4
