@@ -144,6 +144,9 @@ RoadBuilding = 0.56
 RetirementAge = 0.4
 FossilEnergySubsidy = 0.75
 SpeedLimits = 0.80
+MilspecEquipmentForPolice = 0.2
+PrisonerRehabiliationProgram = 0.3
+
 
 _prereq_nuclear_tech = 1
 _prereq_has_coast = 1
